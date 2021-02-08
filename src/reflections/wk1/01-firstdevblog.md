@@ -1,4 +1,4 @@
-#John's Dev Blog
+#Daily Journal
 
 ##First Day Reflection
 
